@@ -1,0 +1,168 @@
+/* ... */
+"..." = "...";
+
+/* After Tomorrow  */
+"After Tomorrow " = "After Tomorrow ";
+
+/* applications */
+"applications" = "applications";
+
+/* Back */
+"Back" = "Back";
+
+/* Before Yesterday  */
+"Before Yesterday " = "Before Yesterday ";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Cancelled */
+"Cancelled" = "Cancelled";
+
+/* Could not make call on this device. */
+"Could not make call on this device." = "Could not make call on this device.";
+
+/* Could not send SMS on this device. */
+"Could not send SMS on this device." = "Could not send SMS on this device.";
+
+/* Did Logout */
+"Did Logout" = "Did Logout";
+
+/* Dismiss */
+"Dismiss" = "Dismiss";
+
+/* Download */
+"Download" = "Download";
+
+/* Download & Install IPA */
+"Download & Install IPA" = "Download & Install IPA";
+
+/* Downloading... */
+"Downloading..." = "Downloading...";
+
+/* Error */
+"Error" = "Error";
+
+/* Failed */
+"Failed" = "Failed";
+
+/* Failed to send email. */
+"Failed to send email." = "Failed to send email.";
+
+/* Failed to send SMS. */
+"Failed to send SMS." = "Failed to send SMS.";
+
+/* Failed: %@ */
+"Failed: %@" = "Failed: %@";
+
+/* Hide KB */
+"Hide KB" = "Hide KB";
+
+/* Install */
+"Install" = "Install";
+
+/* Installed Apps */
+"Installed Apps" = "Installed Apps";
+
+/* Installing... */
+"Installing..." = "Installing...";
+
+/* IPA already installed! */
+"IPA already installed!" = "IPA already installed!";
+
+/* IPA download failed! */
+"IPA download failed!" = "IPA download failed!";
+
+/* IPA installation completed successfully. */
+"IPA installation completed successfully." = "IPA installation completed successfully.";
+
+/* IPA installation failed.\n\nError: %#08X */
+"IPA installation failed.\n\nError: %#08X" = "IPA installation failed.\n\nError: %#08X";
+
+/* Loading... */
+"Loading..." = "Loading...";
+
+/* Logout */
+"Logout" = "Logout";
+
+/* More */
+"More" = "More";
+
+/* OK */
+"OK" = "OK";
+
+/* Open with Safari */
+"Open with Safari" = "Open with Safari";
+
+/* Please setup your email account first. */
+"Please setup your email account first." = "Please setup your email account first.";
+
+/* Please Wait⋯ */
+"Please Wait⋯" = "Please Wait⋯";
+
+/* Please wait... */
+"Please wait..." = "Please wait...";
+
+/* Pull down to refresh... */
+"Pull down to refresh..." = "Pull down to refresh...";
+
+/* Reinstall */
+"Reinstall" = "Reinstall";
+
+/* Release to refresh... */
+"Release to refresh..." = "Release to refresh...";
+
+/* Repeated Weibo Text */
+"Repeated Weibo Text" = "Repeated Weibo Text";
+
+/* Select and Copy the PIN */
+"Select and Copy the PIN" = "Select and Copy the PIN";
+
+/* Send */
+"Send" = "Send";
+
+/* Send email successfully. */
+"Send email successfully." = "Send email successfully.";
+
+/* Send SMS successfully. */
+"Send SMS successfully." = "Send SMS successfully.";
+
+/* Send via Email */
+"Send via Email" = "Send via Email";
+
+/* Sending... */
+"Sending..." = "Sending...";
+
+/* Share */
+"Share" = "Share";
+
+/* Share To Facebook */
+"Share To Facebook" = "Share To Facebook";
+
+/* Share To Sina Weibo */
+"Share To Sina Weibo" = "Share To Sina Weibo";
+
+/* Share To Twitter */
+"Share To Twitter" = "Share To Twitter";
+
+/* Sina Account Info */
+"Sina Account Info" = "Sina Account Info";
+
+/* Succeed */
+"Succeed" = "Succeed";
+
+/* Today  */
+"Today " = "Today ";
+
+/* Tomorrow  */
+"Tomorrow " = "Tomorrow ";
+
+/* Twitter Account Info */
+"Twitter Account Info" = "Twitter Account Info";
+
+/* Version: %@ */
+"Version: %@" = "Version: %@";
+
+/* Yesterday  */
+"Yesterday " = "Yesterday ";
+

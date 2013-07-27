@@ -1,0 +1,63 @@
+
+// Debug flag (move to project preprocessor)
+//#define DEBUG
+
+// Target device family (enable only one flag)
+//#define _TARGET_IPHONE
+//#define _TARGET_IPAD
+#define _TARGET_IPHONE_IPAD
+
+// Target OS version (disable lower version to reduce some unnecessary codes)
+#define _TARGET_VERSION 30
+
+// UniBase
+#import "UniBase.h"
+
+// Util
+#ifdef __cplusplus
+#import "NSUtil.h"
+#import "UIUtil.h"
+#import "SettingUtil.h"
+//#import "DownloadUtil.h"
+//#import "NetworkUtil.h"
+#endif
+
+
+#ifdef __OBJC__
+
+// View
+//#import "TouchView.h"
+//#import "DelayImageView.h"
+//#import "KBCustomTextField.h"
+//#import "PredictScrollView.h"
+
+// Controller
+//#import "MoviePlayer.h"
+//#import "SelectController.h"
+#import "WebController.h"
+#import "ShareComposer.h"
+
+// Addition
+#import "UIAddition.h"
+
+// Share
+//#import "TwitterComposer.h"
+//#import "FacebookComposer.h"
+//#import "SinaWeiboComposer.h"
+
+// TabStrip
+//#import "TabStripView.h"
+
+// PullView
+//#import "PullView.h"
+
+// JSON
+//#import "JSON.h"
+
+// MobClick
+//#import "MobClick.h"
+
+// ZipArchive
+//#import "ZipArchive.h"
+
+#endif
